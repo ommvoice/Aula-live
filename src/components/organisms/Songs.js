@@ -8,7 +8,6 @@ import { SONG_CATEGORIES } from '../../constants';
 import './songs.css';
 
 const Songs = ({ seleceDefaultValue, searchText, onSearch, onSelect, songs }) => {
-	console.info('songs', songs)
 	return (
 		<div className="songs">
 			<div className="row">
