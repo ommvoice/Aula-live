@@ -2,7 +2,7 @@
   "name": "aula-live",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ommvoice.github.io/aula-live",
+  "homepage": "http://ommvoice.github.io/Aula-live",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
