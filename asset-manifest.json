@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/aula-live/static/css/main.7f2a34a8.chunk.css",
+    "main.js": "/aula-live/static/js/main.ae4773f6.chunk.js",
+    "main.js.map": "/aula-live/static/js/main.ae4773f6.chunk.js.map",
+    "runtime-main.js": "/aula-live/static/js/runtime-main.f1d479f9.js",
+    "runtime-main.js.map": "/aula-live/static/js/runtime-main.f1d479f9.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/aula-live/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.2e7f684d.chunk.js": "/aula-live/static/js/2.2e7f684d.chunk.js",
+    "static/js/2.2e7f684d.chunk.js.map": "/aula-live/static/js/2.2e7f684d.chunk.js.map",
+    "static/js/3.8a57d5b3.chunk.js": "/aula-live/static/js/3.8a57d5b3.chunk.js",
+    "static/js/3.8a57d5b3.chunk.js.map": "/aula-live/static/js/3.8a57d5b3.chunk.js.map",
+    "index.html": "/aula-live/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/aula-live/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.7f2a34a8.chunk.css.map": "/aula-live/static/css/main.7f2a34a8.chunk.css.map",
+    "static/js/2.2e7f684d.chunk.js.LICENSE.txt": "/aula-live/static/js/2.2e7f684d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1d479f9.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.2e7f684d.chunk.js",
+    "static/css/main.7f2a34a8.chunk.css",
+    "static/js/main.ae4773f6.chunk.js"
+  ]
+}
