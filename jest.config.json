@@ -1,0 +1,10 @@
+{
+    "testRegex": "((\\.|/*.)(spec))\\.js?$",
+    "setupFilesAfterEnv": [
+      "<rootDir>/jest.setup.js"
+    ],
+    "snapshotSerializers": ["enzyme-to-json/serializer"],
+    "moduleNameMapper":{
+      "\\.(css|less|scss|sass)$": "identity-obj-proxy" 
+ }
+}

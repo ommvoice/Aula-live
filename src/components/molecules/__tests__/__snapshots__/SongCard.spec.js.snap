@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SongCard renders correctly 1`] = `
+<div
+  className="col-md-4"
+>
+  <div
+    className="song-card margin-bottom"
+  >
+    <img />
+    <div
+      className="container"
+    >
+      <div
+        className="text"
+      >
+        test
+      </div>
+    </div>
+  </div>
+</div>
+`;

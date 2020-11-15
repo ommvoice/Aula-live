@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Select renders correctly 1`] = `
+<div
+  className="col-6"
+>
+  <select
+    className="form-control margin-btm"
+  >
+    <option
+      key="top-albums"
+      value="top-albums"
+    >
+      Top Albums
+    </option>
+    <option
+      key="top-songs"
+      value="top-songs"
+    >
+      Top Songs
+    </option>
+    <option
+      key="hot-tracks"
+      value="hot-tracks"
+    >
+      Hot Tracks
+    </option>
+    <option
+      key="new-releases"
+      value="new-releases"
+    >
+      New Releases
+    </option>
+    <option
+      key="coming-soon"
+      value="coming-soon"
+    >
+      Coming Soon
+    </option>
+  </select>
+</div>
+`;

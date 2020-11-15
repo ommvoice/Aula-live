@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Songs renders correctly 1`] = `
+<div
+  className="songs"
+>
+  <div
+    className="row"
+  >
+    <Heading
+      text="Select Songs Category"
+    />
+    <Select
+      options={
+        Array [
+          Object {
+            "title": "Top Albums",
+            "value": "top-albums",
+          },
+          Object {
+            "title": "Top Songs",
+            "value": "top-songs",
+          },
+          Object {
+            "title": "Hot Tracks",
+            "value": "hot-tracks",
+          },
+          Object {
+            "title": "New Releases",
+            "value": "new-releases",
+          },
+          Object {
+            "title": "Coming Soon",
+            "value": "coming-soon",
+          },
+        ]
+      }
+    />
+  </div>
+  <div
+    className="row"
+  >
+    <SearchBar
+      label="Search"
+      placeholder="Search By Artist Name Or Song Name"
+    />
+  </div>
+  <div
+    className="row"
+  >
+    <Heading
+      text="2 Results Found"
+    />
+    <SongCard
+      key="0"
+      text="Kodak Black"
+    />
+    <SongCard
+      key="1"
+      text="Anonymous"
+    />
+  </div>
+</div>
+`;
